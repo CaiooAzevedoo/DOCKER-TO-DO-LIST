@@ -1,11 +1,15 @@
-version: 'X'
+version: '3'
 services:
-  app_A:
-    # ...
+  todoback:
+    build: todobackend/
     # parâmetros
     # ...
-  app_B:
-    # ...
+  todofront:
+    build: todofrontend/
     # parâmetros
     # ...
+  todotests:
+    build: todotests/
+    # parâmetros
+    # ... 
   # ...
