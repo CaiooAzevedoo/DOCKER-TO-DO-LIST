@@ -1,4 +1,4 @@
-# To Do List (docker-todolist)
+# To Do List
 
 Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para praticar os conhecimentos sobre Docker. 
 Foram feitas criações e configurações de containers e imagens utilizando Docker.
